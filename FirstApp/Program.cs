@@ -1,4 +1,6 @@
-﻿static void Main(string[] args);
+﻿internal class Program
+{
+    private static void Main(string[] args)
         {
             const string MyName = "Jane";
 
@@ -10,3 +12,4 @@
 
             Console.ReadKey();
         }
+    }
