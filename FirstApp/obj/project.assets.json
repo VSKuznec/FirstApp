@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Vsevolod\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Projects\\Skillfactory\\FirstApp\\FirstApp\\FirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\Vsevolod\\projects\\Skillfactory\\FirstApp\\FirstApp\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "C:\\Users\\admin\\Projects\\Skillfactory\\FirstApp\\FirstApp\\FirstApp.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Projects\\Skillfactory\\FirstApp\\FirstApp\\obj\\",
+      "projectPath": "C:\\Users\\Vsevolod\\projects\\Skillfactory\\FirstApp\\FirstApp\\FirstApp.csproj",
+      "packagesPath": "C:\\Users\\Vsevolod\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vsevolod\\projects\\Skillfactory\\FirstApp\\FirstApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vsevolod\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
